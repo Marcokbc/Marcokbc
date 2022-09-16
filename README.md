@@ -1,7 +1,7 @@
 ### Helo! I'm Marco Antônio
 
 - 💻 I’m currently working on Web development
-- 📚 I’m currently learning React and Node.js
+- 📚 I’m currently learning React and SpringBoot
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Marcokbc">
@@ -17,6 +17,7 @@
   <img align="center" alt="Marco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Marco-postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
   <img align="center" alt="Marco-postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Marco-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
 
 </div>
   

@@ -4,8 +4,8 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/Marcokbc">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcokbc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcokbc&layout=compact&langs_count=6&theme=radical"/>  
+  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcokbc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcokbc&layout=compact&langs_count=6&theme=radical"/>  
 </div>
   
 ### LEARNED

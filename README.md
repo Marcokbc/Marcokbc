@@ -1,12 +1,22 @@
-### Helo! I'm Marco Antônio
+### Helo! I'm Marco Antônio <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
+ 
+ 
 - 💻 I’m currently working on Web development
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/Marcokbc">
-  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcokbc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcokbc&layout=compact&langs_count=6&theme=radical"/>  
-</div>
+### TOP USED
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
+<br>
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcokbc&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcokbc&theme=dark&utcOffset=-3)|
+|---|---|
+<br>
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Marcokbc&theme=dark&hide_border=false)|![Marcokbc's Stats](https://github-readme-stats.vercel.app/api?username=Marcokbc&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcokbc&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcokbc&theme=dark)
   
 ### LEARNED
   

@@ -5,8 +5,25 @@
 - 💻 I’m currently working on Web development
 
 ### TOP USED
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
-<br>
+<table align="center">
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>React
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>Csharp
+   </td>    
+</tr>
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcokbc&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcokbc&theme=dark&utcOffset=-3)|
 |---|---|

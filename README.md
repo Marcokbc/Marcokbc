@@ -1,5 +1,8 @@
-### Helo! I'm Marco Antônio <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
+### Helo! I'm Marco Antônio
  
  
 - 💻 I’m currently working on Web development

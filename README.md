@@ -2,10 +2,83 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-### Helo! I'm Marco Antônio
+# Helo! I'm Marco Antônio
  
- 
+ <div>
+  
+  
 - 💻 I’m currently working on Web development
+  
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/88397083/234445086-c5639b0d-12b2-45a8-af36-c5ab5245cc73.png" align="left" width="370em" height="400em">
+<br>
+
+### LEARNED
+  
+  <div style="display: inline_block" align="right"><br>
+    
+  <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marco-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marco-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Marco-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Marco-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Marco-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Marco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Marco-postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="center" alt="Marco-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  />
+  <img align="center" alt="Marco-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Marco-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    
+    
+                                                                                                                                                 
+</div>
+
+### LEARNING
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Marco-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Marco-type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
+  <img align="center" alt="Marco-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />  
+  <img align="center" alt="Marco-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
+    
+</div>
+<br>
+
+
+  
+  ### WILL LEARN
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Marco-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img align="center" alt="Marco-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Marco-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
+  <img align="center" alt="Marco-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />  
+    
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcokbc&theme=dark" width="350em"  height="200em" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcokbc&theme=dark" width="250em" height="180em" /></td>
+  </tr>
+</table>
+  <br>
+
+
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcokbc&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcokbc&theme=dark&utcOffset=-3)|
+|---|---|
+<br>
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Marcokbc&theme=dark&hide_border=false)|![Marcokbc's Stats](https://github-readme-stats.vercel.app/api?username=Marcokbc&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
 
 ### TOP USED
 <table align="center">
@@ -27,58 +100,12 @@
       <br>Csharp
    </td>    
 </tr>
-
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcokbc&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcokbc&theme=dark&utcOffset=-3)|
-|---|---|
+</table>
 <br>
+  
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Marcokbc&theme=dark&hide_border=false)|![Marcokbc's Stats](https://github-readme-stats.vercel.app/api?username=Marcokbc&theme=dark&show_icons=true&hide_border=true&count_private=true)
-|---|---|
-<br>
+  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcokbc&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcokbc&theme=dark)
-  
-### LEARNED
-  
-  <div style="display: inline_block"><br>
-    
-  <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marco-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marco-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Marco-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Marco-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Marco-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Marco-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Marco-postgreesql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align="center" alt="Marco-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  />
-  <img align="center" alt="Marco-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Marco-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    
-    
-                                                                                                                                                 
-</div>
-  
-### LEARNING
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Marco-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Marco-type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
-  <img align="center" alt="Marco-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />  
-  <img align="center" alt="Marco-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
-    
-</div>
-  
-  ### WILL LEARN
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Marco-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Marco-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Marco-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
-  <img align="center" alt="Marco-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />  
-    
-</div>
   
   ##
   

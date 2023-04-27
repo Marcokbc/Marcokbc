@@ -64,13 +64,9 @@
 <br>
 <hr>
 
-<table width="100%">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcokbc&theme=dark" width="350em"  height="200em" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcokbc&theme=dark" width="250em" height="180em" /></td>
-  </tr>
-</table>
-  <br>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcokbc&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcokbc&theme=dark)|
+|---|---|
+<br>
 
 
 

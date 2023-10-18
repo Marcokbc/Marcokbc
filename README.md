@@ -59,7 +59,7 @@
   <img align="center" alt="Marco-kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Marco-flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
   <img align="center" alt="Marco-aws" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />  
-    
+  <img align="center" alt="Marco-azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
 
 </div>
 <br>

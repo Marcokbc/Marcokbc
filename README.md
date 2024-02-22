@@ -43,10 +43,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Marco-react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Marco-angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Marco-azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
   <img align="center" alt="Marco-next" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />  
   <img align="center" alt="Marco-docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
-  <img align="center" alt="Marco-tailwind" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  />
-    
+  <img align="center" alt="Marco-tailwind" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </div>
 <br>
 
@@ -58,8 +58,7 @@
   <img align="center" alt="Marco-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="Marco-kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Marco-flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
-  <img align="center" alt="Marco-aws" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />  
-  <img align="center" alt="Marco-azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
+  <img align="center" alt="Marco-aws" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
 <br>

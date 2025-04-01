@@ -80,29 +80,6 @@
 |![](https://github-readme-streak-stats.herokuapp.com/?user=Marcokbc&theme=dark&hide_border=false)|![Marcokbc's Stats](https://github-readme-stats.vercel.app/api?username=Marcokbc&theme=dark&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
-
-### TOP USED
-<table align="center">
-
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>React
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>Csharp
-   </td>    
-</tr>
-</table>
-<br>
   
 
   
